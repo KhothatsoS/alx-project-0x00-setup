@@ -4,4 +4,5 @@ export default function Button({ title, styles }) {
       {title}
     </button>
   );
+
 }
