@@ -1,5 +1,6 @@
 export interface PillProps {
   title: string
+  style: string
 }
 const Home: React.FC = () => {
   return (
